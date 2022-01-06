@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Paphankorn Tanaroj
-Computer Engineering Student
+### Hi there 👋, I'm Paphankorn Tanaroj.
+a Computer Engineering Student
 <!--
 **pholpaphankorn/pholpaphankorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
