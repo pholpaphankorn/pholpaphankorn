@@ -1,5 +1,5 @@
-### Hi there 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+### Hi there 👋, I'm Paphankorn Tanaroj
+🌱 I’m currently learning ...
 <!--
 **pholpaphankorn/pholpaphankorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
